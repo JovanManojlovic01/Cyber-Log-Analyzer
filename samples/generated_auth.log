@@ -1,100 +1,300 @@
-Oct 23 20:14:33 myhost sshd[1234]: Failed password for invalid user root from 203.0.113.45 port 41213 ssh2
-Oct 23 19:59:10 myhost sshd[1234]: Failed password for invalid user test from 203.0.113.45 port 56555 ssh2
-Oct 23 20:15:59 myhost sshd[1234]: Failed password for invalid user oracle from 198.51.100.23 port 57650 ssh2
-Oct 23 20:03:32 myhost sshd[1234]: Failed password for invalid user root from 192.0.2.12 port 43954 ssh2
-Oct 23 20:00:49 myhost sshd[1234]: Failed password for invalid user user from 203.0.113.45 port 54433 ssh2
-Oct 23 19:58:26 myhost sshd[1234]: Failed password for invalid user test from 203.0.113.45 port 48626 ssh2
-Oct 23 20:08:33 myhost sshd[1234]: Failed password for invalid user admin from 198.51.100.23 port 47223 ssh2
-Oct 23 20:26:59 myhost sshd[1234]: Failed password for invalid user oracle from 192.0.2.12 port 42095 ssh2
-Oct 23 20:25:43 myhost sshd[1234]: Failed password for invalid user guest from 192.0.2.12 port 51350 ssh2
-Oct 23 20:22:35 myhost sshd[1234]: Failed password for invalid user root from 203.0.113.45 port 41192 ssh2
-Oct 23 19:57:51 myhost sshd[1234]: Failed password for invalid user guest from 192.0.2.12 port 50614 ssh2
-Oct 23 20:25:06 myhost sshd[1234]: Failed password for invalid user root from 192.0.2.12 port 59958 ssh2
-Oct 23 20:27:20 myhost sshd[1234]: Failed password for invalid user guest from 192.0.2.12 port 43966 ssh2
-Oct 23 20:03:04 myhost sshd[1234]: Failed password for invalid user root from 192.0.2.12 port 50485 ssh2
-Oct 23 20:16:27 myhost sshd[1234]: Failed password for invalid user oracle from 203.0.113.45 port 51030 ssh2
-Oct 23 20:15:04 myhost sshd[1234]: Failed password for invalid user root from 192.0.2.12 port 42937 ssh2
-Oct 23 20:22:27 myhost sshd[1234]: Failed password for invalid user user from 192.0.2.12 port 47184 ssh2
-Oct 23 20:30:23 myhost sshd[1234]: Failed password for invalid user user from 192.0.2.12 port 40969 ssh2
-Oct 23 20:17:31 myhost sshd[1234]: Failed password for invalid user test from 192.0.2.12 port 42795 ssh2
-Oct 23 20:19:15 myhost sshd[1234]: Failed password for invalid user user from 203.0.113.45 port 41917 ssh2
-Oct 23 20:22:12 myhost sshd[1234]: Failed password for invalid user user from 198.51.100.23 port 54868 ssh2
-Oct 23 20:27:16 myhost sshd[1234]: Failed password for invalid user admin from 198.51.100.23 port 54895 ssh2
-Oct 23 20:22:53 myhost sshd[1234]: Failed password for invalid user guest from 203.0.113.45 port 51656 ssh2
-Oct 23 20:22:50 myhost sshd[1234]: Failed password for invalid user root from 203.0.113.45 port 40719 ssh2
-Oct 23 20:21:08 myhost sshd[1234]: Failed password for invalid user user from 198.51.100.23 port 52724 ssh2
-Oct 23 20:02:57 myhost sshd[1234]: Failed password for invalid user root from 192.0.2.12 port 59862 ssh2
-Oct 23 20:21:39 myhost sshd[1234]: Failed password for invalid user guest from 198.51.100.23 port 45592 ssh2
-Oct 23 20:03:50 myhost sshd[1234]: Failed password for invalid user admin from 192.0.2.12 port 50862 ssh2
-Oct 23 20:26:57 myhost sshd[1234]: Failed password for invalid user test from 198.51.100.23 port 54509 ssh2
-Oct 23 20:12:10 myhost sshd[1234]: Failed password for invalid user user from 198.51.100.23 port 49228 ssh2
-Oct 23 20:21:10 myhost sshd[1234]: Failed password for invalid user root from 198.51.100.23 port 40163 ssh2
-Oct 23 20:23:30 myhost sshd[1234]: Failed password for invalid user root from 198.51.100.23 port 56541 ssh2
-Oct 23 20:23:51 myhost sshd[1234]: Failed password for invalid user guest from 192.0.2.12 port 42112 ssh2
-Oct 23 20:25:11 myhost sshd[1234]: Failed password for invalid user test from 203.0.113.45 port 42634 ssh2
-Oct 23 20:00:14 myhost sshd[1234]: Failed password for invalid user admin from 198.51.100.23 port 49564 ssh2
-Oct 23 20:27:53 myhost sshd[1234]: Failed password for invalid user guest from 192.0.2.12 port 41908 ssh2
-Oct 23 20:12:19 myhost sshd[1234]: Failed password for invalid user test from 203.0.113.45 port 43163 ssh2
-Oct 23 20:13:23 myhost sshd[1234]: Failed password for invalid user test from 198.51.100.23 port 53965 ssh2
-Oct 23 20:12:35 myhost sshd[1234]: Failed password for invalid user user from 192.0.2.12 port 42495 ssh2
-Oct 23 19:59:03 myhost sshd[1234]: Failed password for invalid user admin from 192.0.2.12 port 50781 ssh2
-Oct 23 20:01:28 myhost sshd[1234]: Failed password for invalid user user from 198.51.100.23 port 54277 ssh2
-Oct 23 20:05:41 myhost sshd[1234]: Failed password for invalid user oracle from 198.51.100.23 port 53903 ssh2
-Oct 23 20:00:53 myhost sshd[1234]: Failed password for invalid user admin from 198.51.100.23 port 44921 ssh2
-Oct 23 20:00:59 myhost sshd[1234]: Failed password for invalid user guest from 203.0.113.45 port 53958 ssh2
-Oct 23 20:08:57 myhost sshd[1234]: Failed password for invalid user guest from 203.0.113.45 port 50024 ssh2
-Oct 23 20:17:37 myhost sshd[1234]: Failed password for invalid user oracle from 203.0.113.45 port 44308 ssh2
-Oct 23 20:24:32 myhost sshd[1234]: Failed password for invalid user oracle from 198.51.100.23 port 58409 ssh2
-Oct 23 20:11:15 myhost sshd[1234]: Failed password for invalid user admin from 203.0.113.45 port 53827 ssh2
-Oct 23 20:00:15 myhost sshd[1234]: Failed password for invalid user root from 192.0.2.12 port 40271 ssh2
-Oct 23 20:29:27 myhost sshd[1234]: Failed password for invalid user guest from 192.0.2.12 port 42143 ssh2
-Oct 23 20:06:55 myhost sshd[1234]: Failed password for invalid user user from 198.51.100.23 port 44742 ssh2
-Oct 23 20:01:27 myhost sshd[1234]: Failed password for invalid user oracle from 203.0.113.45 port 42712 ssh2
-Oct 23 20:00:11 myhost sshd[1234]: Failed password for invalid user root from 198.51.100.23 port 42500 ssh2
-Oct 23 20:14:40 myhost sshd[1234]: Failed password for invalid user oracle from 198.51.100.23 port 48099 ssh2
-Oct 23 20:07:53 myhost sshd[1234]: Failed password for invalid user admin from 198.51.100.23 port 40093 ssh2
-Oct 23 20:19:54 myhost sshd[1234]: Failed password for invalid user oracle from 192.0.2.12 port 43031 ssh2
-Oct 23 20:15:31 myhost sshd[1234]: Failed password for invalid user user from 192.0.2.12 port 40548 ssh2
-Oct 23 20:02:43 myhost sshd[1234]: Failed password for invalid user user from 192.0.2.12 port 51189 ssh2
-Oct 23 20:12:37 myhost sshd[1234]: Failed password for invalid user root from 198.51.100.23 port 56831 ssh2
-Oct 23 20:20:48 myhost sshd[1234]: Failed password for invalid user oracle from 198.51.100.23 port 56443 ssh2
-Oct 23 20:23:21 myhost sshd[1234]: Failed password for invalid user admin from 203.0.113.45 port 47938 ssh2
-Oct 23 20:20:35 myhost sshd[1234]: Failed password for invalid user test from 192.0.2.12 port 53761 ssh2
-Oct 23 20:29:31 myhost sshd[1234]: Failed password for invalid user test from 198.51.100.23 port 57823 ssh2
-Oct 23 19:57:59 myhost sshd[1234]: Failed password for invalid user guest from 203.0.113.45 port 43134 ssh2
-Oct 23 20:05:27 myhost sshd[1234]: Failed password for invalid user oracle from 203.0.113.45 port 54639 ssh2
-Oct 23 20:18:55 myhost sshd[1234]: Failed password for invalid user guest from 203.0.113.45 port 52911 ssh2
-Oct 23 20:05:46 myhost sshd[1234]: Failed password for invalid user guest from 192.0.2.12 port 58412 ssh2
-Oct 23 20:28:13 myhost sshd[1234]: Failed password for invalid user user from 192.0.2.12 port 50988 ssh2
-Oct 23 19:59:00 myhost sshd[1234]: Failed password for invalid user guest from 203.0.113.45 port 40372 ssh2
-Oct 23 20:20:31 myhost sshd[1234]: Failed password for invalid user guest from 198.51.100.23 port 58451 ssh2
-Oct 23 20:08:51 myhost sshd[1234]: Failed password for invalid user root from 192.0.2.12 port 48417 ssh2
-Oct 23 20:21:23 myhost sshd[1234]: Failed password for invalid user admin from 203.0.113.45 port 59080 ssh2
-Oct 23 20:19:59 myhost sshd[1234]: Failed password for invalid user guest from 198.51.100.23 port 44977 ssh2
-Oct 23 20:19:00 myhost sshd[1234]: Failed password for invalid user oracle from 198.51.100.23 port 55636 ssh2
-Oct 23 20:00:30 myhost sshd[1234]: Failed password for invalid user guest from 203.0.113.45 port 46792 ssh2
-Oct 23 20:28:54 myhost sshd[1234]: Failed password for invalid user admin from 192.0.2.12 port 47404 ssh2
-Oct 23 20:10:34 myhost sshd[1234]: Failed password for invalid user root from 192.0.2.12 port 55629 ssh2
-Oct 23 19:59:23 myhost sshd[1234]: Failed password for invalid user oracle from 192.0.2.12 port 58265 ssh2
-Oct 23 20:13:19 myhost sshd[1234]: Failed password for invalid user user from 192.0.2.12 port 57212 ssh2
-Oct 23 20:07:17 myhost sshd[1234]: Failed password for invalid user test from 198.51.100.23 port 52393 ssh2
-Oct 23 20:26:40 myhost sshd[1234]: Failed password for invalid user user from 203.0.113.45 port 42636 ssh2
-Oct 23 20:29:15 myhost sshd[1234]: Failed password for invalid user user from 203.0.113.45 port 51714 ssh2
-Oct 23 20:18:50 myhost sshd[1234]: Failed password for invalid user user from 203.0.113.45 port 56879 ssh2
-Oct 23 20:12:58 myhost sshd[1234]: Failed password for invalid user oracle from 192.0.2.12 port 49934 ssh2
-Oct 23 20:18:59 myhost sshd[1234]: Failed password for invalid user test from 192.0.2.12 port 59753 ssh2
-Oct 23 20:03:12 myhost sshd[1234]: Failed password for invalid user root from 192.0.2.12 port 48948 ssh2
-Oct 23 20:14:48 myhost sshd[1234]: Failed password for invalid user guest from 203.0.113.45 port 50609 ssh2
-Oct 23 20:17:08 myhost sshd[1234]: Failed password for invalid user oracle from 198.51.100.23 port 48912 ssh2
-Oct 23 20:17:59 myhost sshd[1234]: Failed password for invalid user oracle from 192.0.2.12 port 56036 ssh2
-Oct 23 20:26:02 myhost sshd[1234]: Failed password for invalid user admin from 198.51.100.23 port 50473 ssh2
-Oct 23 20:02:07 myhost sshd[1234]: Failed password for invalid user test from 192.0.2.12 port 46494 ssh2
-Oct 23 20:23:40 myhost sshd[1234]: Failed password for invalid user admin from 192.0.2.12 port 52539 ssh2
-Oct 23 20:18:27 myhost sshd[1234]: Failed password for invalid user test from 203.0.113.45 port 48040 ssh2
-Oct 23 20:01:48 myhost sshd[1234]: Failed password for invalid user root from 203.0.113.45 port 40595 ssh2
-Oct 23 20:02:30 myhost sshd[1234]: Failed password for invalid user test from 198.51.100.23 port 45044 ssh2
-Oct 23 20:12:34 myhost sshd[1234]: Failed password for invalid user admin from 192.0.2.12 port 55902 ssh2
-Oct 23 20:26:00 myhost sshd[1234]: Failed password for invalid user user from 198.51.100.23 port 54774 ssh2
-Oct 23 20:30:44 myhost sshd[1234]: Failed password for invalid user admin from 192.0.2.12 port 45316 ssh2
-Oct 23 20:02:32 myhost sshd[1234]: Failed password for invalid user admin from 192.0.2.12 port 40896 ssh2
-Oct 23 20:06:08 myhost sshd[1234]: Failed password for invalid user test from 198.51.100.23 port 51737 ssh2
+Nov 17 16:01:40 web-01 sudo[8029]: (WARN) Failed password for invalid user oracle from 218.18.100.112 port 53802 ssh2 [geo=SG] [asn=AS63949] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=389c435f05]
+Nov 17 16:02:04 bastion sshd[8705]: (WARN) Failed password for deploy from 231.149.200.118 port 52522 ssh2 [geo=US] [asn=AS16509] [ua="python-requests/2.31"] [corr=a0d9ddaed8]
+Nov 17 16:02:17 web-01 sudo[960]: (WARN) Failed password for guest from 238.179.176.20 port 43373 ssh2 [geo=GB] [asn=AS16509] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=3f5eace5c7]
+Nov 17 16:02:33 bastion sshd[4289]: (INFO) Accepted password for deploy from 250.192.164.130 port 55705 ssh2 [geo=BR] [asn=AS8075] [ua="curl/8.0.1"] [corr=a3989266aa]
+Nov 17 16:02:56 edge-fw openvpn[1462]: (WARN) Failed password for root from 30.186.200.146 port 42156 ssh2 [geo=SG] [asn=AS63949] [ua="OpenSSH_8.4"] [corr=c20ca2bf1c]
+Nov 17 16:03:17 edge-fw openvpn[6002]: (ERROR) sudo: PAM authentication error for devops from 170.172.220.148 [geo=SG] [asn=AS13335] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=cd51a87c3b]
+Nov 17 16:03:36 edge-fw systemd[9430]: (WARN) Failed password for analyst from 26.226.250.52 port 58113 ssh2 [geo=SG] [asn=AS8075] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=68a1fdcd51]
+Nov 17 16:04:00 bastion sudo[9119]: (INFO) Accepted password for admin from 88.242.29.253 port 60134 ssh2 [geo=BR] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=1c8ee2c9e6]
+Nov 17 16:04:24 web-01 systemd[9762]: (INFO) Accepted password for analyst from 109.116.191.159 port 56170 ssh2 [geo=ZA] [asn=AS8075] [ua="python-requests/2.31"] [corr=ee8e7e70ae]
+Nov 17 16:04:27 edge-fw sudo[4110]: (ERROR) sudo: PAM authentication error for analyst from 209.110.208.7 [geo=BR] [asn=AS63949] [ua="python-requests/2.31"] [corr=27c4fea31b]
+Nov 17 16:04:40 vpn-01 sshd[4044]: (WARN) Failed password for oracle from 4.48.126.129 port 59940 ssh2 [geo=SG] [asn=AS15169] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=0d0508a580]
+Nov 17 16:05:00 bastion openvpn[5126]: (INFO) sudo: session opened for user root by root(uid=0) [geo=GB] [asn=AS13335] [ua="curl/8.0.1"] [corr=f87d6e683c]
+Nov 17 16:05:23 vpn-01 sudo[4977]: (WARN) Failed password for invalid user admin from 111.110.181.72 port 60506 ssh2 [geo=DE] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=c62ca27bae]
+Nov 17 16:05:40 web-01 sudo[2728]: (WARN) Failed password for invalid user root from 224.242.198.190 port 52725 ssh2 [geo=BR] [asn=AS16509] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=73851f8c11]
+Nov 17 16:05:58 bastion sshd[8436]: (INFO) Accepted password for root from 88.16.183.92 port 48149 ssh2 [geo=GB] [asn=AS8075] [ua="curl/8.0.1"] [corr=4e2db69958]
+Nov 17 16:06:21 edge-fw sudo[8169]: (INFO) openvpn: user root authenticated from 180.14.17.151 [geo=US] [asn=AS15169] [ua="python-requests/2.31"] [corr=75d8b347d4]
+Nov 17 16:06:27 edge-fw sudo[4919]: (INFO) openvpn: user root authenticated from 224.222.188.150 [geo=SG] [asn=AS15169] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=a52820c8a3]
+Nov 17 16:06:35 db-02 openvpn[4999]: (WARN) Failed password for root from 138.172.254.164 port 59180 ssh2 [geo=BR] [asn=AS16509] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=80d1b81290]
+Nov 17 16:06:45 bastion sshd[6493]: (INFO) sudo: session opened for user admin by root(uid=0) [geo=BR] [asn=AS15169] [ua="curl/8.0.1"] [corr=d3120dcb7a]
+Nov 17 16:07:02 db-02 sshd[9464]: (WARN) Failed password for invalid user oracle from 50.241.37.77 port 62537 ssh2 [geo=BR] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=21acbc0e5c]
+Nov 17 16:07:22 web-01 sshd[5944]: (WARN) Failed password for guest from 225.246.203.149 port 55715 ssh2 [geo=DE] [asn=AS63949] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=4d582afdb1]
+Nov 17 16:07:27 bastion sudo[1638]: (INFO) sudo: session opened for user admin by root(uid=0) [geo=ZA] [asn=AS63949] [ua="curl/8.0.1"] [corr=311dedb6f7]
+Nov 17 16:07:49 vpn-01 sshd[5215]: (WARN) Failed password for admin from 62.248.100.159 port 46035 ssh2 [geo=DE] [asn=AS15169] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=1e4a397b05]
+Nov 17 16:08:04 web-01 openvpn[5311]: (INFO) Accepted password for guest from 196.35.125.223 port 50212 ssh2 [geo=BR] [asn=AS16509] [ua="OpenSSH_8.4"] [corr=c6c488d2bc]
+Nov 17 16:08:11 bastion openvpn[5209]: (WARN) Failed password for devops from 140.183.96.118 port 57116 ssh2 [geo=SG] [asn=AS13335] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=6ad7f617de]
+Nov 17 16:08:18 db-02 systemd[907]: (INFO) Accepted password for guest from 131.124.103.157 port 60495 ssh2 [geo=US] [asn=AS13335] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=91dcfdd15c]
+Nov 17 16:08:34 db-02 systemd[3727]: (WARN) Failed password for admin from 73.144.238.88 port 54802 ssh2 [geo=US] [asn=AS13335] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=316256c974]
+Nov 17 16:08:43 web-01 systemd[9781]: (WARN) Failed password for guest from 181.38.146.145 port 54218 ssh2 [geo=ZA] [asn=AS8075] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=dd35285e63]
+Nov 17 16:08:43 bastion sshd[633]: (ERROR) sudo: PAM authentication error for admin from 19.162.235.189 [geo=ZA] [asn=AS8075] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=05452a6298]
+Nov 17 16:09:07 edge-fw systemd[4212]: (ERROR) sudo: PAM authentication error for devops from 20.36.240.104 [geo=DE] [asn=AS8075] [ua="curl/8.0.1"] [corr=e6845c15ac]
+Nov 17 16:09:20 db-02 sudo[3296]: (WARN) Failed password for invalid user admin from 171.61.221.233 port 60348 ssh2 [geo=GB] [asn=AS63949] [ua="OpenSSH_8.4"] [corr=c65baddfaf]
+Nov 17 16:09:23 bastion sudo[3026]: (WARN) Failed password for invalid user guest from 83.248.201.44 port 56708 ssh2 [geo=BR] [asn=AS8075] [ua="curl/8.0.1"] [corr=82f523cd38]
+Nov 17 16:09:32 edge-fw openvpn[3480]: (INFO) openvpn: user oracle authenticated from 208.147.51.44 [geo=SG] [asn=AS13335] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=b2917ce36f]
+Nov 17 16:09:54 vpn-01 systemd[8893]: (WARN) Failed password for invalid user analyst from 121.122.134.117 port 58318 ssh2 [geo=DE] [asn=AS13335] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=7697487cd8]
+Nov 17 16:10:11 web-01 systemd[9173]: (WARN) Failed password for guest from 24.160.74.35 port 62393 ssh2 [geo=BR] [asn=AS8075] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=b83470a7b4]
+Nov 17 16:10:24 bastion systemd[3508]: (WARN) Failed password for invalid user deploy from 142.204.186.203 port 64925 ssh2 [geo=SG] [asn=AS13335] [ua="curl/8.0.1"] [corr=3379ca137e]
+Nov 17 16:10:37 web-01 openvpn[5270]: (WARN) Failed password for invalid user root from 120.119.21.209 port 52095 ssh2 [geo=SG] [asn=AS15169] [ua="OpenSSH_8.4"] [corr=2de100bb08]
+Nov 17 16:10:59 vpn-01 openvpn[9864]: (WARN) Failed password for invalid user oracle from 131.153.222.226 port 42602 ssh2 [geo=SG] [asn=AS63949] [ua="OpenSSH_8.4"] [corr=7a7ba3e1a9]
+Nov 17 16:11:17 vpn-01 systemd[2403]: (WARN) Failed password for devops from 132.131.39.225 port 62487 ssh2 [geo=DE] [asn=AS13335] [ua="OpenSSH_8.4"] [corr=0b6cea7afa]
+Nov 17 16:11:27 edge-fw systemd[2519]: (INFO) systemd: Finished daily security update service [geo=SG] [asn=AS63949] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=26313fa017]
+Nov 17 16:11:47 vpn-01 sshd[670]: (ERROR) sudo: PAM authentication error for devops from 154.57.56.110 [geo=US] [asn=AS16509] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=39e6df6ed0]
+Nov 17 16:11:47 edge-fw sudo[1763]: (INFO) openvpn: user admin authenticated from 40.41.155.46 [geo=DE] [asn=AS13335] [ua="OpenSSH_8.4"] [corr=e5cf6f1d00]
+Nov 17 16:11:50 bastion systemd[7285]: (WARN) Failed password for devops from 254.118.110.90 port 46720 ssh2 [geo=ZA] [asn=AS13335] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=64b3703a3e]
+Nov 17 16:11:56 edge-fw systemd[9263]: (WARN) Failed password for invalid user analyst from 103.115.120.101 port 61168 ssh2 [geo=US] [asn=AS13335] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=3922af055d]
+Nov 17 16:12:15 edge-fw systemd[3776]: (ERROR) sudo: PAM authentication error for oracle from 166.151.53.181 [geo=BR] [asn=AS15169] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=b5c2804074]
+Nov 17 16:12:39 bastion sshd[787]: (ERROR) sudo: PAM authentication error for oracle from 252.250.12.45 [geo=US] [asn=AS8075] [ua="python-requests/2.31"] [corr=b8d6e16791]
+Nov 17 16:12:39 vpn-01 sshd[3750]: (WARN) Failed password for invalid user guest from 61.103.142.135 port 47615 ssh2 [geo=SG] [asn=AS16509] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=b33766e5a1]
+Nov 17 16:13:03 db-02 openvpn[4940]: (INFO) Accepted password for admin from 96.33.171.73 port 46820 ssh2 [geo=BR] [asn=AS63949] [ua="curl/8.0.1"] [corr=d34b3b7213]
+Nov 17 16:13:04 db-02 sudo[3088]: (WARN) Failed password for root from 95.91.159.211 port 54990 ssh2 [geo=DE] [asn=AS63949] [ua="python-requests/2.31"] [corr=8354334b6e]
+Nov 17 16:13:25 db-02 systemd[3680]: (WARN) Failed password for oracle from 157.48.210.116 port 60126 ssh2 [geo=SG] [asn=AS15169] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=d2372841c7]
+Nov 17 16:13:27 db-02 sshd[5844]: (INFO) openvpn: user oracle authenticated from 62.71.194.100 [geo=SG] [asn=AS16509] [ua="python-requests/2.31"] [corr=88bf73ea15]
+Nov 17 16:13:43 bastion openvpn[1190]: (INFO) Accepted password for devops from 103.62.154.121 port 64386 ssh2 [geo=GB] [asn=AS15169] [ua="python-requests/2.31"] [corr=934b549e9a]
+Nov 17 16:14:03 bastion systemd[1562]: (INFO) Accepted password for admin from 183.183.198.74 port 57944 ssh2 [geo=GB] [asn=AS13335] [ua="OpenSSH_8.4"] [corr=acd66db1a3]
+Nov 17 16:14:12 edge-fw openvpn[7555]: (INFO) Accepted password for root from 93.81.82.161 port 61209 ssh2 [geo=DE] [asn=AS16509] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=4f189b2811]
+Nov 17 16:14:33 edge-fw openvpn[5840]: (ERROR) sudo: PAM authentication error for root from 46.165.166.165 [geo=US] [asn=AS8075] [ua="python-requests/2.31"] [corr=3d4371ffc6]
+Nov 17 16:14:34 bastion openvpn[4111]: (WARN) Failed password for guest from 96.207.222.178 port 50867 ssh2 [geo=SG] [asn=AS15169] [ua="python-requests/2.31"] [corr=8b8adf2436]
+Nov 17 16:14:53 bastion systemd[2828]: (INFO) openvpn: user guest authenticated from 77.86.186.224 [geo=ZA] [asn=AS15169] [ua="OpenSSH_8.4"] [corr=19322f1fbc]
+Nov 17 16:15:12 db-02 sudo[255]: (ERROR) sudo: PAM authentication error for guest from 93.96.212.88 [geo=US] [asn=AS15169] [ua="python-requests/2.31"] [corr=0bd3172bc8]
+Nov 17 16:15:22 edge-fw openvpn[7684]: (INFO) openvpn: user guest authenticated from 102.7.187.236 [geo=GB] [asn=AS13335] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=1f7478f5ad]
+Nov 17 16:15:27 db-02 systemd[5796]: (INFO) openvpn: user admin authenticated from 62.15.72.48 [geo=US] [asn=AS8075] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=fd3865707c]
+Nov 17 16:15:45 web-01 openvpn[4428]: (INFO) openvpn: user analyst authenticated from 100.194.126.86 [geo=ZA] [asn=AS63949] [ua="curl/8.0.1"] [corr=96c00e765b]
+Nov 17 16:15:47 web-01 systemd[241]: (INFO) openvpn: user oracle authenticated from 242.84.64.154 [geo=US] [asn=AS8075] [ua="python-requests/2.31"] [corr=25ef252715]
+Nov 17 16:15:55 bastion systemd[8674]: (INFO) openvpn: user guest authenticated from 26.38.141.39 [geo=DE] [asn=AS63949] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=e11c7d9e3e]
+Nov 17 16:16:14 db-02 sshd[7484]: (INFO) openvpn: user deploy authenticated from 173.41.104.57 [geo=GB] [asn=AS13335] [ua="python-requests/2.31"] [corr=c2a5428aa1]
+Nov 17 16:16:25 bastion systemd[8027]: (INFO) openvpn: user analyst authenticated from 127.119.136.84 [geo=GB] [asn=AS13335] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=20510baf96]
+Nov 17 16:16:28 edge-fw sshd[8174]: (WARN) Failed password for oracle from 57.247.108.122 port 59351 ssh2 [geo=US] [asn=AS8075] [ua="OpenSSH_8.4"] [corr=61119bd7e0]
+Nov 17 16:16:36 web-01 openvpn[1154]: (INFO) sudo: session opened for user analyst by root(uid=0) [geo=GB] [asn=AS15169] [ua="curl/8.0.1"] [corr=1341ea209a]
+Nov 17 16:16:42 bastion sshd[2504]: (ERROR) sudo: PAM authentication error for admin from 14.45.7.43 [geo=ZA] [asn=AS13335] [ua="OpenSSH_8.4"] [corr=c7a3972ef7]
+Nov 17 16:17:01 bastion systemd[7310]: (INFO) openvpn: user admin authenticated from 203.187.220.50 [geo=BR] [asn=AS13335] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=164004e75c]
+Nov 17 16:17:02 bastion openvpn[6151]: (WARN) Failed password for root from 235.71.107.121 port 50295 ssh2 [geo=DE] [asn=AS8075] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=fe62c12792]
+Nov 17 16:17:08 vpn-01 systemd[8004]: (WARN) Failed password for devops from 254.156.232.246 port 60213 ssh2 [geo=SG] [asn=AS63949] [ua="OpenSSH_8.4"] [corr=c37c20a819]
+Nov 17 16:17:18 db-02 openvpn[605]: (WARN) Failed password for invalid user oracle from 67.26.55.180 port 59586 ssh2 [geo=ZA] [asn=AS16509] [ua="curl/8.0.1"] [corr=d9e5b21b5f]
+Nov 17 16:17:25 edge-fw systemd[6454]: (INFO) systemd: Finished daily security update service [geo=US] [asn=AS15169] [ua="OpenSSH_8.4"] [corr=c2a6facb68]
+Nov 17 16:17:33 edge-fw systemd[3986]: (WARN) Failed password for analyst from 87.228.146.26 port 52246 ssh2 [geo=BR] [asn=AS15169] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=66e45b01ae]
+Nov 17 16:17:55 edge-fw sudo[2903]: (INFO) systemd: Finished daily security update service [geo=SG] [asn=AS15169] [ua="OpenSSH_8.4"] [corr=b9700c8b45]
+Nov 17 16:18:09 vpn-01 openvpn[396]: (INFO) Accepted password for deploy from 144.52.53.142 port 61280 ssh2 [geo=SG] [asn=AS13335] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=86d6f4bb78]
+Nov 17 16:18:21 web-01 sshd[4175]: (INFO) systemd: Finished daily security update service [geo=US] [asn=AS63949] [ua="OpenSSH_8.4"] [corr=ec05c40557]
+Nov 17 16:18:32 bastion systemd[8491]: (ERROR) sudo: PAM authentication error for analyst from 43.101.149.38 [geo=ZA] [asn=AS15169] [ua="OpenSSH_8.4"] [corr=75dfbbe51c]
+Nov 17 16:18:36 vpn-01 systemd[276]: (INFO) sudo: session opened for user analyst by root(uid=0) [geo=SG] [asn=AS13335] [ua="OpenSSH_8.4"] [corr=9e521f996d]
+Nov 17 16:18:38 bastion systemd[8314]: (INFO) sudo: session opened for user root by root(uid=0) [geo=DE] [asn=AS15169] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=f57985ae81]
+Nov 17 16:18:56 db-02 sshd[1782]: (INFO) sudo: session opened for user guest by root(uid=0) [geo=DE] [asn=AS16509] [ua="curl/8.0.1"] [corr=a398c7f436]
+Nov 17 16:19:02 vpn-01 systemd[7105]: (INFO) Accepted password for devops from 239.117.120.135 port 59806 ssh2 [geo=GB] [asn=AS13335] [ua="python-requests/2.31"] [corr=84a5e8ad01]
+Nov 17 16:19:20 db-02 systemd[7523]: (INFO) Accepted password for deploy from 132.63.157.206 port 53748 ssh2 [geo=DE] [asn=AS16509] [ua="curl/8.0.1"] [corr=b1b6c4436f]
+Nov 17 16:19:23 vpn-01 systemd[1455]: (INFO) sudo: session opened for user admin by root(uid=0) [geo=US] [asn=AS16509] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=034a0be50a]
+Nov 17 16:19:31 db-02 systemd[6923]: (WARN) Failed password for devops from 223.139.177.212 port 50038 ssh2 [geo=US] [asn=AS15169] [ua="OpenSSH_8.4"] [corr=cc2cd1b645]
+Nov 17 16:19:45 vpn-01 sshd[1912]: (WARN) Failed password for root from 238.12.133.136 port 47671 ssh2 [geo=ZA] [asn=AS8075] [ua="OpenSSH_8.4"] [corr=7dae63ae36]
+Nov 17 16:19:53 vpn-01 sudo[7685]: (INFO) openvpn: user root authenticated from 163.220.141.55 [geo=BR] [asn=AS16509] [ua="curl/8.0.1"] [corr=8cac4f8ba5]
+Nov 17 16:19:53 vpn-01 sudo[1039]: (WARN) Failed password for invalid user oracle from 125.26.230.203 port 58716 ssh2 [geo=ZA] [asn=AS16509] [ua="OpenSSH_8.4"] [corr=5e3b909fd8]
+Nov 17 16:20:08 vpn-01 openvpn[3264]: (WARN) Failed password for guest from 215.88.45.251 port 46995 ssh2 [geo=DE] [asn=AS63949] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=cd07e6eaf8]
+Nov 17 16:20:16 bastion sudo[6879]: (ERROR) sudo: PAM authentication error for analyst from 13.154.75.87 [geo=DE] [asn=AS16509] [ua="curl/8.0.1"] [corr=7fc98c42a3]
+Nov 17 16:20:25 bastion sudo[8041]: (INFO) sudo: session opened for user devops by root(uid=0) [geo=DE] [asn=AS13335] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=cf4c5acb72]
+Nov 17 16:20:30 web-01 openvpn[8994]: (WARN) Failed password for admin from 158.217.165.153 port 58207 ssh2 [geo=GB] [asn=AS16509] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=844a5b7a02]
+Nov 17 16:20:54 web-01 systemd[5377]: (WARN) Failed password for devops from 179.102.234.164 port 44098 ssh2 [geo=US] [asn=AS16509] [ua="python-requests/2.31"] [corr=20eb01aa80]
+Nov 17 16:21:00 web-01 openvpn[3715]: (WARN) Failed password for admin from 67.83.92.82 port 63785 ssh2 [geo=ZA] [asn=AS8075] [ua="OpenSSH_8.4"] [corr=87dace86e5]
+Nov 17 16:21:21 db-02 sshd[682]: (INFO) openvpn: user guest authenticated from 30.16.178.16 [geo=SG] [asn=AS63949] [ua="python-requests/2.31"] [corr=5cb93c6499]
+Nov 17 16:21:31 vpn-01 sudo[9254]: (INFO) Accepted password for deploy from 210.41.50.105 port 54688 ssh2 [geo=DE] [asn=AS63949] [ua="curl/8.0.1"] [corr=e3a501ebb3]
+Nov 17 16:21:33 edge-fw sudo[3492]: (INFO) Accepted password for root from 130.168.207.28 port 63327 ssh2 [geo=ZA] [asn=AS13335] [ua="OpenSSH_8.4"] [corr=ba41854035]
+Nov 17 16:21:40 web-01 systemd[242]: (ERROR) sudo: PAM authentication error for analyst from 114.123.143.126 [geo=ZA] [asn=AS16509] [ua="OpenSSH_8.4"] [corr=a4806471c4]
+Nov 17 16:22:04 edge-fw sshd[7706]: (WARN) Failed password for invalid user devops from 71.227.132.243 port 46540 ssh2 [geo=GB] [asn=AS16509] [ua="curl/8.0.1"] [corr=3fd6294c6e]
+Nov 17 16:22:20 web-01 systemd[5928]: (INFO) Accepted password for oracle from 247.220.236.178 port 64733 ssh2 [geo=ZA] [asn=AS15169] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=725ccb9f02]
+Nov 17 16:22:34 edge-fw sudo[3857]: (INFO) Accepted password for admin from 175.13.90.62 port 52870 ssh2 [geo=BR] [asn=AS63949] [ua="python-requests/2.31"] [corr=1c42ef0a1f]
+Nov 17 16:22:47 web-01 sudo[8898]: (WARN) Failed password for admin from 166.252.239.156 port 52869 ssh2 [geo=US] [asn=AS8075] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=e339c1798c]
+Nov 17 16:22:47 web-01 sshd[8186]: (INFO) sudo: session opened for user oracle by root(uid=0) [geo=ZA] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=7a428ee324]
+Nov 17 16:23:06 db-02 openvpn[6382]: (WARN) Failed password for root from 4.221.214.60 port 55988 ssh2 [geo=US] [asn=AS16509] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=a11134594f]
+Nov 17 16:23:29 web-01 sshd[3408]: (WARN) Failed password for invalid user deploy from 162.26.39.24 port 42560 ssh2 [geo=ZA] [asn=AS8075] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=80af87c824]
+Nov 17 16:23:46 edge-fw sudo[5786]: (WARN) Failed password for invalid user devops from 222.66.171.159 port 57993 ssh2 [geo=SG] [asn=AS16509] [ua="python-requests/2.31"] [corr=131f364168]
+Nov 17 16:23:46 vpn-01 sudo[2725]: (WARN) Failed password for invalid user admin from 56.233.88.114 port 64622 ssh2 [geo=SG] [asn=AS16509] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=488963ea94]
+Nov 17 16:24:02 vpn-01 openvpn[5121]: (INFO) Accepted password for analyst from 190.139.180.81 port 46413 ssh2 [geo=GB] [asn=AS8075] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=3582c5ef69]
+Nov 17 16:24:18 web-01 openvpn[8394]: (WARN) Failed password for analyst from 77.36.14.149 port 52502 ssh2 [geo=BR] [asn=AS16509] [ua="curl/8.0.1"] [corr=c6ae4c2d6b]
+Nov 17 16:24:23 edge-fw openvpn[9253]: (INFO) sudo: session opened for user root by root(uid=0) [geo=ZA] [asn=AS13335] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=4cd407f429]
+Nov 17 16:24:39 edge-fw openvpn[9132]: (WARN) Failed password for analyst from 178.10.245.165 port 54672 ssh2 [geo=BR] [asn=AS13335] [ua="python-requests/2.31"] [corr=50ea41b395]
+Nov 17 16:24:52 web-01 sudo[1453]: (WARN) Failed password for invalid user devops from 45.219.89.18 port 51807 ssh2 [geo=GB] [asn=AS13335] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=6e0c8f4188]
+Nov 17 16:25:16 bastion sshd[5064]: (WARN) Failed password for deploy from 219.78.145.93 port 62103 ssh2 [geo=GB] [asn=AS13335] [ua="python-requests/2.31"] [corr=dee52a3d7f]
+Nov 17 16:25:21 bastion openvpn[2995]: (WARN) Failed password for invalid user guest from 60.62.168.136 port 49777 ssh2 [geo=SG] [asn=AS16509] [ua="curl/8.0.1"] [corr=325ac673d5]
+Nov 17 16:25:29 bastion systemd[1276]: (INFO) Accepted password for root from 32.91.140.135 port 57396 ssh2 [geo=BR] [asn=AS63949] [ua="OpenSSH_8.4"] [corr=1c0d39075b]
+Nov 17 16:25:53 vpn-01 sshd[3128]: (WARN) Failed password for invalid user devops from 117.96.39.14 port 48047 ssh2 [geo=DE] [asn=AS13335] [ua="curl/8.0.1"] [corr=ab9c88a99b]
+Nov 17 16:25:55 web-01 systemd[7484]: (INFO) openvpn: user admin authenticated from 132.95.185.210 [geo=GB] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=9f8c362fbd]
+Nov 17 16:26:13 edge-fw sshd[7422]: (INFO) Accepted password for devops from 55.12.123.160 port 42869 ssh2 [geo=SG] [asn=AS8075] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=49661fec63]
+Nov 17 16:26:34 vpn-01 systemd[1187]: (WARN) Failed password for invalid user root from 144.76.53.241 port 51499 ssh2 [geo=DE] [asn=AS8075] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=1c5b1028ec]
+Nov 17 16:26:41 db-02 systemd[9449]: (INFO) sudo: session opened for user oracle by root(uid=0) [geo=DE] [asn=AS15169] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=a77893cd85]
+Nov 17 16:26:42 db-02 systemd[3787]: (WARN) Failed password for invalid user deploy from 67.44.206.135 port 59676 ssh2 [geo=BR] [asn=AS15169] [ua="python-requests/2.31"] [corr=25b22facbd]
+Nov 17 16:26:46 db-02 sudo[975]: (WARN) Failed password for invalid user devops from 89.36.153.41 port 62087 ssh2 [geo=GB] [asn=AS8075] [ua="curl/8.0.1"] [corr=71ede5e3db]
+Nov 17 16:27:05 vpn-01 openvpn[954]: (INFO) systemd: Finished daily security update service [geo=GB] [asn=AS16509] [ua="curl/8.0.1"] [corr=878254a4ec]
+Nov 17 16:27:29 db-02 systemd[7586]: (INFO) Accepted password for root from 133.74.210.248 port 60041 ssh2 [geo=ZA] [asn=AS8075] [ua="python-requests/2.31"] [corr=c507c29377]
+Nov 17 16:27:39 bastion sudo[8153]: (WARN) Failed password for invalid user root from 198.166.27.109 port 59206 ssh2 [geo=DE] [asn=AS13335] [ua="curl/8.0.1"] [corr=b78b83017e]
+Nov 17 16:27:41 edge-fw openvpn[7467]: (ERROR) sudo: PAM authentication error for devops from 72.209.15.130 [geo=US] [asn=AS63949] [ua="curl/8.0.1"] [corr=0a5849022e]
+Nov 17 16:28:00 db-02 openvpn[3855]: (WARN) Failed password for invalid user admin from 77.5.117.79 port 58534 ssh2 [geo=US] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=372fb3bc9e]
+Nov 17 16:28:22 bastion sshd[2585]: (INFO) openvpn: user guest authenticated from 82.88.224.70 [geo=SG] [asn=AS13335] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=20c0109478]
+Nov 17 16:28:23 web-01 openvpn[7181]: (INFO) Accepted password for root from 102.40.69.109 port 61871 ssh2 [geo=ZA] [asn=AS15169] [ua="OpenSSH_8.4"] [corr=efdd772321]
+Nov 17 16:28:35 web-01 systemd[9210]: (WARN) Failed password for invalid user guest from 177.186.182.209 port 43357 ssh2 [geo=BR] [asn=AS63949] [ua="curl/8.0.1"] [corr=333ae3aeb7]
+Nov 17 16:28:55 vpn-01 openvpn[8631]: (WARN) Failed password for oracle from 83.21.70.19 port 49387 ssh2 [geo=ZA] [asn=AS16509] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=9a7d3841fc]
+Nov 17 16:29:06 db-02 openvpn[9586]: (WARN) Failed password for invalid user guest from 28.191.189.196 port 47302 ssh2 [geo=US] [asn=AS15169] [ua="python-requests/2.31"] [corr=252bc5404b]
+Nov 17 16:29:30 edge-fw sudo[1503]: (WARN) Failed password for deploy from 159.40.70.204 port 49951 ssh2 [geo=SG] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=fe169c7998]
+Nov 17 16:29:51 bastion sudo[8891]: (WARN) Failed password for invalid user deploy from 175.177.136.11 port 45347 ssh2 [geo=ZA] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=d2527dfd48]
+Nov 17 16:30:07 edge-fw openvpn[3913]: (INFO) sudo: session opened for user deploy by root(uid=0) [geo=SG] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=b74056b9c5]
+Nov 17 16:30:13 db-02 sshd[1492]: (WARN) Failed password for invalid user oracle from 83.225.153.98 port 48419 ssh2 [geo=US] [asn=AS16509] [ua="python-requests/2.31"] [corr=f63e92366d]
+Nov 17 16:30:35 web-01 systemd[6803]: (WARN) Failed password for admin from 137.247.245.168 port 60449 ssh2 [geo=US] [asn=AS63949] [ua="OpenSSH_8.4"] [corr=17d608b65a]
+Nov 17 16:30:43 vpn-01 sudo[4843]: (WARN) Failed password for invalid user devops from 70.170.18.153 port 46410 ssh2 [geo=ZA] [asn=AS8075] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=96ce66d321]
+Nov 17 16:31:00 db-02 openvpn[9289]: (WARN) Failed password for invalid user deploy from 22.195.186.198 port 64280 ssh2 [geo=GB] [asn=AS13335] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=8f7bc8319f]
+Nov 17 16:31:00 web-01 sudo[477]: (INFO) Accepted password for root from 191.168.124.91 port 45746 ssh2 [geo=BR] [asn=AS15169] [ua="python-requests/2.31"] [corr=0e0a4c3cbd]
+Nov 17 16:31:20 bastion openvpn[2869]: (INFO) openvpn: user devops authenticated from 215.25.21.24 [geo=GB] [asn=AS8075] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=24580efb21]
+Nov 17 16:31:34 bastion openvpn[9358]: (INFO) openvpn: user analyst authenticated from 81.124.48.43 [geo=ZA] [asn=AS8075] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=afa616a7f6]
+Nov 17 16:31:44 edge-fw systemd[588]: (INFO) Accepted password for analyst from 235.17.194.113 port 50199 ssh2 [geo=BR] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=f6dcb249e0]
+Nov 17 16:31:50 bastion sshd[1621]: (ERROR) sudo: PAM authentication error for root from 220.9.48.7 [geo=BR] [asn=AS13335] [ua="OpenSSH_8.4"] [corr=4d8760b844]
+Nov 17 16:31:55 bastion openvpn[7395]: (WARN) Failed password for deploy from 89.208.243.10 port 46069 ssh2 [geo=US] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=e12046a577]
+Nov 17 16:32:10 web-01 systemd[3098]: (WARN) Failed password for admin from 105.217.222.104 port 59560 ssh2 [geo=SG] [asn=AS63949] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=6e74233388]
+Nov 17 16:32:17 web-01 systemd[4389]: (WARN) Failed password for deploy from 140.135.82.91 port 56465 ssh2 [geo=US] [asn=AS13335] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=ae053ba9f9]
+Nov 17 16:32:34 db-02 sudo[8833]: (WARN) Failed password for admin from 203.156.136.249 port 40496 ssh2 [geo=SG] [asn=AS13335] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=02f0b96b69]
+Nov 17 16:32:38 web-01 openvpn[7373]: (WARN) Failed password for deploy from 251.240.183.8 port 45366 ssh2 [geo=DE] [asn=AS15169] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=088ea145ab]
+Nov 17 16:32:52 bastion sudo[9365]: (WARN) Failed password for guest from 242.191.187.162 port 53595 ssh2 [geo=SG] [asn=AS15169] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=7b84dd01c5]
+Nov 17 16:33:00 bastion sudo[2661]: (WARN) Failed password for invalid user oracle from 179.246.186.40 port 62927 ssh2 [geo=ZA] [asn=AS63949] [ua="python-requests/2.31"] [corr=8195d1b903]
+Nov 17 16:33:03 db-02 sudo[7834]: (WARN) Failed password for deploy from 186.130.161.89 port 40725 ssh2 [geo=SG] [asn=AS15169] [ua="curl/8.0.1"] [corr=c2b1aa5d3e]
+Nov 17 16:33:07 bastion openvpn[6012]: (WARN) Failed password for admin from 61.247.98.132 port 57396 ssh2 [geo=GB] [asn=AS16509] [ua="OpenSSH_8.4"] [corr=a0114e0df6]
+Nov 17 16:33:09 vpn-01 openvpn[5361]: (INFO) sudo: session opened for user root by root(uid=0) [geo=GB] [asn=AS15169] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=3b14d2ceb8]
+Nov 17 16:33:17 web-01 systemd[9098]: (INFO) Accepted password for analyst from 65.94.233.12 port 53310 ssh2 [geo=BR] [asn=AS16509] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=32a1561854]
+Nov 17 16:33:39 web-01 sudo[9297]: (WARN) Failed password for admin from 243.191.223.215 port 50806 ssh2 [geo=SG] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=2b997723c0]
+Nov 17 16:33:57 web-01 openvpn[393]: (INFO) Accepted password for root from 224.248.51.126 port 51932 ssh2 [geo=GB] [asn=AS15169] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=bc84c8cf6f]
+Nov 17 16:34:15 edge-fw sudo[2639]: (WARN) Failed password for oracle from 16.85.101.128 port 52254 ssh2 [geo=ZA] [asn=AS8075] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=d39e2a5522]
+Nov 17 16:34:30 edge-fw systemd[1338]: (WARN) Failed password for invalid user guest from 204.41.53.10 port 45591 ssh2 [geo=GB] [asn=AS8075] [ua="curl/8.0.1"] [corr=dcc5b635a8]
+Nov 17 16:34:51 bastion sudo[9376]: (WARN) Failed password for admin from 171.102.64.51 port 45635 ssh2 [geo=US] [asn=AS16509] [ua="OpenSSH_8.4"] [corr=c131272c35]
+Nov 17 16:35:02 web-01 systemd[9403]: (INFO) systemd: Finished daily security update service [geo=GB] [asn=AS16509] [ua="OpenSSH_8.4"] [corr=edca687290]
+Nov 17 16:35:06 bastion openvpn[6108]: (ERROR) sudo: PAM authentication error for guest from 141.79.82.25 [geo=BR] [asn=AS8075] [ua="OpenSSH_8.4"] [corr=9c69c28eb4]
+Nov 17 16:35:27 db-02 systemd[4705]: (WARN) Failed password for invalid user analyst from 96.60.188.14 port 51207 ssh2 [geo=US] [asn=AS16509] [ua="OpenSSH_8.4"] [corr=5d21bccdd7]
+Nov 17 16:35:34 web-01 sshd[4293]: (WARN) Failed password for oracle from 121.178.65.196 port 56822 ssh2 [geo=US] [asn=AS8075] [ua="curl/8.0.1"] [corr=074edf3b84]
+Nov 17 16:35:41 bastion openvpn[9966]: (INFO) systemd: Finished daily security update service [geo=DE] [asn=AS16509] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=f208a3a91e]
+Nov 17 16:35:46 edge-fw openvpn[7297]: (INFO) Accepted password for oracle from 229.128.160.247 port 62357 ssh2 [geo=DE] [asn=AS8075] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=6bd308122c]
+Nov 17 16:35:52 bastion openvpn[8264]: (INFO) Accepted password for analyst from 39.104.223.100 port 40473 ssh2 [geo=SG] [asn=AS16509] [ua="OpenSSH_8.4"] [corr=76e07acdd7]
+Nov 17 16:35:52 edge-fw systemd[9621]: (WARN) Failed password for invalid user oracle from 108.251.76.151 port 44184 ssh2 [geo=GB] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=e8632c7a64]
+Nov 17 16:36:05 bastion sudo[9443]: (WARN) Failed password for admin from 66.19.252.121 port 48203 ssh2 [geo=DE] [asn=AS13335] [ua="python-requests/2.31"] [corr=666448dffd]
+Nov 17 16:36:08 db-02 sshd[8236]: (WARN) Failed password for invalid user analyst from 210.223.83.67 port 45055 ssh2 [geo=SG] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=33224d5fb1]
+Nov 17 16:36:09 bastion openvpn[6126]: (ERROR) sudo: PAM authentication error for guest from 208.115.40.99 [geo=GB] [asn=AS16509] [ua="curl/8.0.1"] [corr=b4dc10a85f]
+Nov 17 16:36:15 vpn-01 sshd[4414]: (WARN) Failed password for devops from 148.151.59.45 port 40671 ssh2 [geo=SG] [asn=AS63949] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=e2b4627b41]
+Nov 17 16:36:26 bastion openvpn[4312]: (WARN) Failed password for invalid user guest from 72.74.129.91 port 49210 ssh2 [geo=US] [asn=AS15169] [ua="OpenSSH_8.4"] [corr=f4d7aa9ab2]
+Nov 17 16:36:33 bastion openvpn[3732]: (INFO) Accepted password for guest from 168.175.3.95 port 50507 ssh2 [geo=BR] [asn=AS16509] [ua="curl/8.0.1"] [corr=ee576cea68]
+Nov 17 16:36:41 web-01 sshd[7937]: (INFO) sudo: session opened for user guest by root(uid=0) [geo=GB] [asn=AS8075] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=3abb0f9443]
+Nov 17 16:36:58 edge-fw openvpn[286]: (WARN) Failed password for invalid user admin from 105.42.91.7 port 52946 ssh2 [geo=BR] [asn=AS8075] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=7a3bef1bc5]
+Nov 17 16:37:11 web-01 sudo[798]: (WARN) Failed password for oracle from 115.137.153.78 port 63402 ssh2 [geo=ZA] [asn=AS16509] [ua="python-requests/2.31"] [corr=9a6c982740]
+Nov 17 16:37:26 vpn-01 sudo[549]: (WARN) Failed password for oracle from 194.83.107.102 port 57360 ssh2 [geo=ZA] [asn=AS15169] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=257203afaa]
+Nov 17 16:37:44 edge-fw sshd[800]: (INFO) systemd: Finished daily security update service [geo=GB] [asn=AS8075] [ua="curl/8.0.1"] [corr=c83ec4e954]
+Nov 17 16:37:51 web-01 sudo[8341]: (INFO) sudo: session opened for user analyst by root(uid=0) [geo=US] [asn=AS63949] [ua="OpenSSH_8.4"] [corr=8e6b53fcf9]
+Nov 17 16:38:02 vpn-01 sudo[1713]: (WARN) Failed password for guest from 162.116.79.147 port 58017 ssh2 [geo=BR] [asn=AS8075] [ua="curl/8.0.1"] [corr=81d3b8427f]
+Nov 17 16:38:09 vpn-01 sshd[3397]: (WARN) Failed password for analyst from 203.165.7.41 port 61624 ssh2 [geo=GB] [asn=AS8075] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=0ee576c81f]
+Nov 17 16:38:12 web-01 openvpn[6930]: (INFO) Accepted password for oracle from 85.194.222.91 port 42034 ssh2 [geo=US] [asn=AS8075] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=c525b126c4]
+Nov 17 16:38:34 bastion sshd[3887]: (ERROR) sudo: PAM authentication error for root from 41.112.161.248 [geo=US] [asn=AS63949] [ua="python-requests/2.31"] [corr=16df3bf0e4]
+Nov 17 16:38:34 db-02 sudo[8694]: (WARN) Failed password for guest from 109.82.199.199 port 45609 ssh2 [geo=US] [asn=AS15169] [ua="OpenSSH_8.4"] [corr=81317ff064]
+Nov 17 16:38:54 edge-fw sudo[683]: (WARN) Failed password for invalid user analyst from 86.116.121.87 port 53234 ssh2 [geo=US] [asn=AS8075] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=21a37b23d3]
+Nov 17 16:39:11 vpn-01 systemd[1957]: (WARN) Failed password for oracle from 112.201.152.14 port 40539 ssh2 [geo=GB] [asn=AS13335] [ua="curl/8.0.1"] [corr=7df7ae446d]
+Nov 17 16:39:29 web-01 sudo[9288]: (WARN) Failed password for devops from 144.78.201.171 port 61944 ssh2 [geo=DE] [asn=AS8075] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=b9578c1760]
+Nov 17 16:39:48 db-02 sshd[1380]: (INFO) openvpn: user guest authenticated from 242.116.173.68 [geo=SG] [asn=AS16509] [ua="python-requests/2.31"] [corr=2abb6ca9dc]
+Nov 17 16:39:51 web-01 systemd[8090]: (WARN) Failed password for deploy from 28.9.22.170 port 54790 ssh2 [geo=ZA] [asn=AS8075] [ua="curl/8.0.1"] [corr=07c1f4a2b2]
+Nov 17 16:39:56 vpn-01 sshd[5725]: (INFO) sudo: session opened for user deploy by root(uid=0) [geo=DE] [asn=AS15169] [ua="OpenSSH_8.4"] [corr=a8bd9284b2]
+Nov 17 16:40:09 bastion sshd[2037]: (WARN) Failed password for invalid user oracle from 232.149.254.144 port 51995 ssh2 [geo=ZA] [asn=AS13335] [ua="OpenSSH_8.4"] [corr=1e83bf91cb]
+Nov 17 16:40:24 db-02 openvpn[4472]: (INFO) sudo: session opened for user root by root(uid=0) [geo=SG] [asn=AS13335] [ua="OpenSSH_8.4"] [corr=69504d0d09]
+Nov 17 16:40:41 edge-fw openvpn[8999]: (WARN) Failed password for oracle from 128.183.105.49 port 56738 ssh2 [geo=SG] [asn=AS15169] [ua="curl/8.0.1"] [corr=1517b14214]
+Nov 17 16:41:02 vpn-01 systemd[3357]: (INFO) Accepted password for guest from 165.58.172.94 port 41446 ssh2 [geo=ZA] [asn=AS63949] [ua="curl/8.0.1"] [corr=c66d7a4fb8]
+Nov 17 16:41:25 bastion openvpn[6500]: (INFO) systemd: Finished daily security update service [geo=DE] [asn=AS15169] [ua="curl/8.0.1"] [corr=c8a661c167]
+Nov 17 16:41:47 edge-fw sudo[7436]: (WARN) Failed password for admin from 253.197.28.106 port 44976 ssh2 [geo=BR] [asn=AS8075] [ua="OpenSSH_8.4"] [corr=0ce3eaff53]
+Nov 17 16:42:00 web-01 sshd[2507]: (WARN) Failed password for oracle from 50.154.231.124 port 45721 ssh2 [geo=US] [asn=AS63949] [ua="OpenSSH_8.4"] [corr=94cfb3622b]
+Nov 17 16:42:22 edge-fw systemd[848]: (WARN) Failed password for devops from 116.17.206.100 port 48139 ssh2 [geo=DE] [asn=AS16509] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=84494fc5e1]
+Nov 17 16:42:26 web-01 openvpn[7839]: (INFO) Accepted password for deploy from 251.29.54.130 port 58996 ssh2 [geo=DE] [asn=AS13335] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=4e440ea28a]
+Nov 17 16:42:41 vpn-01 openvpn[2076]: (INFO) Accepted password for root from 6.31.104.133 port 62011 ssh2 [geo=GB] [asn=AS16509] [ua="curl/8.0.1"] [corr=6e8b3933b4]
+Nov 17 16:42:42 db-02 systemd[9510]: (INFO) openvpn: user admin authenticated from 141.64.26.208 [geo=GB] [asn=AS63949] [ua="python-requests/2.31"] [corr=63a8e0e8d2]
+Nov 17 16:43:01 edge-fw sudo[9857]: (INFO) openvpn: user oracle authenticated from 135.120.201.237 [geo=GB] [asn=AS15169] [ua="python-requests/2.31"] [corr=351ec3e3aa]
+Nov 17 16:43:09 web-01 openvpn[3975]: (WARN) Failed password for analyst from 232.96.175.169 port 47375 ssh2 [geo=SG] [asn=AS13335] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=4fcfecb733]
+Nov 17 16:43:27 vpn-01 systemd[9525]: (WARN) Failed password for invalid user analyst from 18.31.157.166 port 42002 ssh2 [geo=US] [asn=AS15169] [ua="OpenSSH_8.4"] [corr=d9199abe37]
+Nov 17 16:43:30 db-02 openvpn[5503]: (INFO) openvpn: user analyst authenticated from 247.102.251.30 [geo=GB] [asn=AS13335] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=e34221182e]
+Nov 17 16:43:49 bastion sshd[9878]: (WARN) Failed password for analyst from 154.96.240.69 port 58777 ssh2 [geo=US] [asn=AS63949] [ua="curl/8.0.1"] [corr=c5d9b42fc7]
+Nov 17 16:43:57 edge-fw sshd[3852]: (INFO) Accepted password for guest from 11.98.83.208 port 44165 ssh2 [geo=BR] [asn=AS16509] [ua="OpenSSH_8.4"] [corr=a8b8b2f7a3]
+Nov 17 16:44:13 bastion openvpn[7639]: (INFO) Accepted password for root from 155.15.197.224 port 59511 ssh2 [geo=US] [asn=AS16509] [ua="OpenSSH_8.4"] [corr=f3d6f2d5a9]
+Nov 17 16:44:27 bastion systemd[3168]: (INFO) Accepted password for devops from 227.8.79.21 port 54270 ssh2 [geo=BR] [asn=AS16509] [ua="python-requests/2.31"] [corr=54957e869b]
+Nov 17 16:44:48 bastion sudo[1564]: (INFO) sudo: session opened for user root by root(uid=0) [geo=US] [asn=AS15169] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=2919b3402d]
+Nov 17 16:45:02 edge-fw sshd[8959]: (INFO) Accepted password for analyst from 157.79.64.30 port 60043 ssh2 [geo=SG] [asn=AS8075] [ua="curl/8.0.1"] [corr=d776d93b0e]
+Nov 17 16:45:12 edge-fw systemd[9868]: (INFO) Accepted password for guest from 136.22.198.168 port 63918 ssh2 [geo=BR] [asn=AS15169] [ua="curl/8.0.1"] [corr=e3e66ac473]
+Nov 17 16:45:27 db-02 openvpn[7523]: (INFO) sudo: session opened for user root by root(uid=0) [geo=GB] [asn=AS13335] [ua="curl/8.0.1"] [corr=2c1ff3d5fc]
+Nov 17 16:45:33 web-01 systemd[7315]: (ERROR) sudo: PAM authentication error for root from 58.157.28.128 [geo=BR] [asn=AS16509] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=7c2fb8cbb5]
+Nov 17 16:45:40 bastion sshd[3344]: (WARN) Failed password for deploy from 227.229.89.47 port 60694 ssh2 [geo=ZA] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=138c19476a]
+Nov 17 16:45:49 edge-fw systemd[4978]: (INFO) systemd: Finished daily security update service [geo=US] [asn=AS8075] [ua="OpenSSH_8.4"] [corr=1e71351430]
+Nov 17 16:46:08 web-01 systemd[6808]: (WARN) Failed password for devops from 3.123.226.165 port 54242 ssh2 [geo=ZA] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=b49d171df2]
+Nov 17 16:46:32 web-01 sshd[8910]: (INFO) Accepted password for devops from 129.222.41.140 port 61916 ssh2 [geo=SG] [asn=AS8075] [ua="OpenSSH_8.4"] [corr=0b70cb5d7f]
+Nov 17 16:46:43 vpn-01 sudo[7984]: (INFO) openvpn: user oracle authenticated from 89.42.213.219 [geo=US] [asn=AS63949] [ua="python-requests/2.31"] [corr=17c99bd468]
+Nov 17 16:47:04 vpn-01 sshd[4804]: (WARN) Failed password for invalid user analyst from 85.73.154.139 port 59377 ssh2 [geo=DE] [asn=AS63949] [ua="curl/8.0.1"] [corr=a450ac0b0b]
+Nov 17 16:47:14 web-01 sudo[2288]: (WARN) Failed password for invalid user guest from 73.132.166.208 port 43917 ssh2 [geo=DE] [asn=AS63949] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=9e97ab4fe1]
+Nov 17 16:47:36 bastion systemd[3791]: (INFO) sudo: session opened for user deploy by root(uid=0) [geo=ZA] [asn=AS15169] [ua="python-requests/2.31"] [corr=80aa40ef84]
+Nov 17 16:47:58 web-01 systemd[3193]: (WARN) Failed password for invalid user guest from 116.116.42.87 port 63914 ssh2 [geo=ZA] [asn=AS16509] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=79e27fade3]
+Nov 17 16:48:15 web-01 sshd[2032]: (WARN) Failed password for deploy from 193.22.55.97 port 56339 ssh2 [geo=SG] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=9a06644c2f]
+Nov 17 16:48:28 bastion systemd[670]: (INFO) Accepted password for analyst from 180.103.23.43 port 60679 ssh2 [geo=BR] [asn=AS15169] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=c874518296]
+Nov 17 16:48:28 db-02 sudo[5385]: (ERROR) sudo: PAM authentication error for devops from 175.225.5.24 [geo=ZA] [asn=AS15169] [ua="curl/8.0.1"] [corr=59b185df31]
+Nov 17 16:48:41 db-02 sshd[3661]: (WARN) Failed password for oracle from 29.103.21.6 port 55982 ssh2 [geo=DE] [asn=AS13335] [ua="OpenSSH_8.4"] [corr=415ccabff7]
+Nov 17 16:48:55 vpn-01 openvpn[2404]: (INFO) systemd: Finished daily security update service [geo=DE] [asn=AS15169] [ua="python-requests/2.31"] [corr=cde1f0ae33]
+Nov 17 16:49:04 db-02 sudo[8585]: (INFO) Accepted password for guest from 218.117.119.118 port 44731 ssh2 [geo=GB] [asn=AS15169] [ua="python-requests/2.31"] [corr=0e3797d344]
+Nov 17 16:49:18 edge-fw systemd[3376]: (WARN) Failed password for guest from 55.25.153.170 port 54760 ssh2 [geo=US] [asn=AS63949] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=6bf32e710c]
+Nov 17 16:49:29 db-02 openvpn[6798]: (INFO) Accepted password for admin from 66.233.202.167 port 62144 ssh2 [geo=DE] [asn=AS16509] [ua="python-requests/2.31"] [corr=abfe3a91f9]
+Nov 17 16:49:30 web-01 openvpn[3088]: (INFO) openvpn: user deploy authenticated from 39.23.137.84 [geo=ZA] [asn=AS8075] [ua="curl/8.0.1"] [corr=a08548964d]
+Nov 17 16:49:48 db-02 openvpn[2620]: (WARN) Failed password for admin from 149.68.150.138 port 53712 ssh2 [geo=GB] [asn=AS63949] [ua="python-requests/2.31"] [corr=708fc6b6ce]
+Nov 17 16:50:02 web-01 sshd[2098]: (WARN) Failed password for devops from 196.254.26.28 port 53338 ssh2 [geo=DE] [asn=AS13335] [ua="curl/8.0.1"] [corr=69928997d5]
+Nov 17 16:50:03 bastion sshd[7906]: (INFO) openvpn: user analyst authenticated from 28.19.72.136 [geo=SG] [asn=AS8075] [ua="OpenSSH_8.4"] [corr=9e5b738ab8]
+Nov 17 16:50:11 bastion openvpn[7067]: (WARN) Failed password for deploy from 169.34.202.133 port 43844 ssh2 [geo=SG] [asn=AS13335] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=4320abefd6]
+Nov 17 16:50:22 db-02 sshd[2014]: (WARN) Failed password for analyst from 217.145.69.54 port 49092 ssh2 [geo=US] [asn=AS15169] [ua="curl/8.0.1"] [corr=628862f8da]
+Nov 17 16:50:35 bastion sshd[4304]: (ERROR) sudo: PAM authentication error for root from 41.20.153.133 [geo=US] [asn=AS16509] [ua="OpenSSH_8.4"] [corr=1d92f1361a]
+Nov 17 16:50:52 edge-fw openvpn[5521]: (WARN) Failed password for deploy from 21.149.7.53 port 58164 ssh2 [geo=GB] [asn=AS15169] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=3d12c2ffa2]
+Nov 17 16:51:07 edge-fw sshd[5456]: (WARN) Failed password for guest from 165.12.75.12 port 58249 ssh2 [geo=GB] [asn=AS63949] [ua="python-requests/2.31"] [corr=8ca843efeb]
+Nov 17 16:51:22 bastion sshd[7653]: (ERROR) sudo: PAM authentication error for deploy from 249.61.44.143 [geo=BR] [asn=AS63949] [ua="python-requests/2.31"] [corr=931227d345]
+Nov 17 16:51:41 vpn-01 openvpn[3762]: (INFO) openvpn: user guest authenticated from 187.155.26.63 [geo=ZA] [asn=AS13335] [ua="python-requests/2.31"] [corr=42528f2c21]
+Nov 17 16:52:04 edge-fw sudo[8782]: (WARN) Failed password for guest from 117.14.175.231 port 43639 ssh2 [geo=GB] [asn=AS8075] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=eebdb5416d]
+Nov 17 16:52:25 bastion sudo[3621]: (ERROR) sudo: PAM authentication error for analyst from 171.5.253.219 [geo=GB] [asn=AS8075] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=549a0afb01]
+Nov 17 16:52:33 db-02 openvpn[5171]: (WARN) Failed password for analyst from 76.90.95.171 port 42735 ssh2 [geo=SG] [asn=AS63949] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=29fd5062a5]
+Nov 17 16:52:56 db-02 openvpn[2048]: (INFO) sudo: session opened for user guest by root(uid=0) [geo=SG] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=4ecb052be4]
+Nov 17 16:52:59 db-02 openvpn[4716]: (WARN) Failed password for invalid user analyst from 147.87.39.221 port 63923 ssh2 [geo=BR] [asn=AS15169] [ua="OpenSSH_8.4"] [corr=143760ad8f]
+Nov 17 16:53:07 vpn-01 sshd[1003]: (WARN) Failed password for oracle from 200.222.114.95 port 43811 ssh2 [geo=DE] [asn=AS16509] [ua="python-requests/2.31"] [corr=8b70029bf6]
+Nov 17 16:53:29 db-02 openvpn[7784]: (INFO) Accepted password for devops from 50.202.150.86 port 53988 ssh2 [geo=US] [asn=AS63949] [ua="OpenSSH_8.4"] [corr=7c3167ca6f]
+Nov 17 16:53:47 bastion sudo[6981]: (WARN) Failed password for deploy from 234.62.254.63 port 41207 ssh2 [geo=SG] [asn=AS15169] [ua="python-requests/2.31"] [corr=2e72cb0b2a]
+Nov 17 16:54:07 bastion openvpn[3444]: (INFO) openvpn: user guest authenticated from 26.112.167.227 [geo=US] [asn=AS63949] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=a9ec68df4e]
+Nov 17 16:54:16 vpn-01 sudo[3496]: (INFO) Accepted password for deploy from 25.229.29.115 port 62470 ssh2 [geo=GB] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=f6abc18976]
+Nov 17 16:54:32 edge-fw sshd[4786]: (WARN) Failed password for invalid user analyst from 189.160.252.240 port 57932 ssh2 [geo=GB] [asn=AS16509] [ua="OpenSSH_8.4"] [corr=0a4ee5bca7]
+Nov 17 16:54:37 db-02 openvpn[9760]: (INFO) Accepted password for admin from 196.214.28.100 port 56618 ssh2 [geo=BR] [asn=AS63949] [ua="curl/8.0.1"] [corr=3f703849d0]
+Nov 17 16:54:54 edge-fw systemd[6762]: (WARN) Failed password for devops from 42.98.116.223 port 45965 ssh2 [geo=GB] [asn=AS16509] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=dd7ec63e7d]
+Nov 17 16:55:16 db-02 sudo[2166]: (INFO) Accepted password for guest from 10.106.38.46 port 56469 ssh2 [geo=BR] [asn=AS15169] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=25e3ce43ec]
+Nov 17 16:55:25 vpn-01 openvpn[3727]: (INFO) openvpn: user deploy authenticated from 168.16.209.66 [geo=ZA] [asn=AS8075] [ua="OpenSSH_8.4"] [corr=d200a2f35b]
+Nov 17 16:55:35 vpn-01 openvpn[922]: (INFO) openvpn: user root authenticated from 198.249.185.229 [geo=DE] [asn=AS15169] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=0947be37a6]
+Nov 17 16:55:58 web-01 openvpn[8374]: (WARN) Failed password for analyst from 61.47.87.21 port 43484 ssh2 [geo=ZA] [asn=AS8075] [ua="curl/8.0.1"] [corr=191acf6fc1]
+Nov 17 16:56:22 vpn-01 sudo[2166]: (WARN) Failed password for oracle from 15.247.194.230 port 43676 ssh2 [geo=US] [asn=AS8075] [ua="OpenSSH_8.4"] [corr=038a79c7cd]
+Nov 17 16:56:39 edge-fw sshd[9314]: (WARN) Failed password for devops from 58.56.3.59 port 63524 ssh2 [geo=SG] [asn=AS15169] [ua="curl/8.0.1"] [corr=f569f131f3]
+Nov 17 16:57:00 db-02 sudo[3567]: (INFO) Accepted password for guest from 143.163.235.112 port 46296 ssh2 [geo=ZA] [asn=AS15169] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=45324aaf9c]
+Nov 17 16:57:11 db-02 sshd[5675]: (INFO) Accepted password for guest from 59.203.97.147 port 60838 ssh2 [geo=US] [asn=AS15169] [ua="curl/8.0.1"] [corr=04fdf9fa3b]
+Nov 17 16:57:11 edge-fw sudo[7786]: (WARN) Failed password for root from 177.238.149.235 port 60388 ssh2 [geo=SG] [asn=AS63949] [ua="OpenSSH_8.4"] [corr=39d3949f47]
+Nov 17 16:57:30 db-02 systemd[6483]: (WARN) Failed password for invalid user devops from 195.235.110.145 port 55287 ssh2 [geo=GB] [asn=AS8075] [ua="curl/8.0.1"] [corr=4a7d7923e8]
+Nov 17 16:57:47 db-02 sshd[2236]: (WARN) Failed password for invalid user oracle from 10.84.13.62 port 52469 ssh2 [geo=ZA] [asn=AS13335] [ua="OpenSSH_8.4"] [corr=3340ed4e9d]
+Nov 17 16:57:52 web-01 openvpn[3646]: (INFO) sudo: session opened for user analyst by root(uid=0) [geo=GB] [asn=AS13335] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=669bdca6c9]
+Nov 17 16:57:57 db-02 openvpn[296]: (WARN) Failed password for oracle from 181.101.115.171 port 47395 ssh2 [geo=US] [asn=AS15169] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=caab22a9ba]
+Nov 17 16:58:12 vpn-01 sshd[7837]: (WARN) Failed password for invalid user guest from 81.54.90.19 port 50966 ssh2 [geo=SG] [asn=AS13335] [ua="python-requests/2.31"] [corr=288ec11c2e]
+Nov 17 16:58:12 web-01 systemd[5132]: (WARN) Failed password for guest from 10.249.104.76 port 64187 ssh2 [geo=ZA] [asn=AS63949] [ua="python-requests/2.31"] [corr=4c322f42cd]
+Nov 17 16:58:25 db-02 sudo[9462]: (INFO) openvpn: user devops authenticated from 74.197.211.252 [geo=DE] [asn=AS16509] [ua="curl/8.0.1"] [corr=1f07157f56]
+Nov 17 16:58:46 vpn-01 openvpn[708]: (INFO) openvpn: user guest authenticated from 183.69.31.140 [geo=SG] [asn=AS8075] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=20092e4f19]
+Nov 17 16:59:02 web-01 sshd[7849]: (WARN) Failed password for invalid user oracle from 63.42.42.192 port 59806 ssh2 [geo=BR] [asn=AS16509] [ua="python-requests/2.31"] [corr=b4d4a67a46]
+Nov 17 16:59:21 vpn-01 sudo[9889]: (ERROR) sudo: PAM authentication error for devops from 218.155.66.54 [geo=BR] [asn=AS16509] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=fb5fbb79a2]
+Nov 17 16:59:41 db-02 sudo[7142]: (INFO) Accepted password for analyst from 43.239.57.190 port 51694 ssh2 [geo=BR] [asn=AS13335] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=800e31014d]
+Nov 17 17:00:02 edge-fw openvpn[3732]: (ERROR) sudo: PAM authentication error for admin from 253.152.40.148 [geo=DE] [asn=AS63949] [ua="python-requests/2.31"] [corr=0d1a9de1f8]
+Nov 17 17:00:04 bastion systemd[1083]: (WARN) Failed password for analyst from 253.27.21.16 port 40972 ssh2 [geo=BR] [asn=AS13335] [ua="python-requests/2.31"] [corr=3187bb9f08]
+Nov 17 17:00:23 edge-fw sshd[9626]: (INFO) systemd: Finished daily security update service [geo=SG] [asn=AS13335] [ua="curl/8.0.1"] [corr=31f5903529]
+Nov 17 17:00:41 bastion systemd[5506]: (INFO) Accepted password for guest from 142.5.136.78 port 47026 ssh2 [geo=SG] [asn=AS16509] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=94f73c5fcc]
+Nov 17 17:01:02 vpn-01 sudo[2916]: (WARN) Failed password for invalid user deploy from 26.167.196.177 port 61113 ssh2 [geo=DE] [asn=AS15169] [ua="python-requests/2.31"] [corr=693cfcdfd4]
+Nov 17 17:01:19 edge-fw systemd[5719]: (WARN) Failed password for oracle from 149.161.157.68 port 59979 ssh2 [geo=SG] [asn=AS15169] [ua="python-requests/2.31"] [corr=72c0d8a3e4]
+Nov 17 17:01:32 bastion openvpn[1891]: (INFO) openvpn: user analyst authenticated from 3.18.228.130 [geo=GB] [asn=AS16509] [ua="python-requests/2.31"] [corr=51505e0104]
+Nov 17 17:01:33 bastion sshd[9079]: (INFO) openvpn: user oracle authenticated from 182.62.209.185 [geo=GB] [asn=AS63949] [ua="python-requests/2.31"] [corr=07feffcaa8]
+Nov 17 17:01:33 vpn-01 sudo[2435]: (INFO) openvpn: user root authenticated from 4.150.137.12 [geo=US] [asn=AS13335] [ua="python-requests/2.31"] [corr=efa4ecd600]
+Nov 17 17:01:33 db-02 openvpn[7125]: (INFO) Accepted password for root from 19.200.224.4 port 55613 ssh2 [geo=US] [asn=AS16509] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=3b161fe8c3]
+Nov 17 17:01:33 bastion openvpn[1120]: (ERROR) sudo: PAM authentication error for analyst from 183.55.58.153 [geo=GB] [asn=AS8075] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=cf4a6d9b6b]
+Nov 17 17:01:33 web-01 openvpn[8809]: (INFO) sudo: session opened for user devops by root(uid=0) [geo=SG] [asn=AS8075] [ua="curl/8.0.1"] [corr=8123a3e29b]
+Nov 17 17:01:33 edge-fw systemd[5232]: (INFO) Accepted password for guest from 149.103.156.103 port 56758 ssh2 [geo=ZA] [asn=AS63949] [ua="python-requests/2.31"] [corr=26165a27d6]
+Nov 17 17:01:33 vpn-01 sshd[2730]: (WARN) Failed password for devops from 144.228.34.85 port 47768 ssh2 [geo=BR] [asn=AS16509] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=9a63e4777d]
+Nov 17 17:01:33 edge-fw sudo[9442]: (WARN) Failed password for guest from 249.247.212.104 port 45256 ssh2 [geo=ZA] [asn=AS8075] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=b63a536985]
+Nov 17 17:01:33 edge-fw sshd[8582]: (INFO) Accepted password for guest from 149.15.60.74 port 40321 ssh2 [geo=ZA] [asn=AS8075] [ua="python-requests/2.31"] [corr=42118a479d]
+Nov 17 17:01:33 edge-fw openvpn[9286]: (WARN) Failed password for admin from 139.130.131.72 port 50228 ssh2 [geo=ZA] [asn=AS13335] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=28331aec4e]
+Nov 17 17:01:33 db-02 sshd[9001]: (INFO) sudo: session opened for user admin by root(uid=0) [geo=BR] [asn=AS15169] [ua="curl/8.0.1"] [corr=0b61679090]
+Nov 17 17:01:33 edge-fw openvpn[8621]: (WARN) Failed password for invalid user guest from 171.215.5.142 port 45671 ssh2 [geo=DE] [asn=AS8075] [ua="curl/8.0.1"] [corr=d04e816f8e]
+Nov 17 17:01:33 web-01 sshd[5377]: (WARN) Failed password for root from 160.50.169.116 port 47823 ssh2 [geo=SG] [asn=AS63949] [ua="curl/8.0.1"] [corr=a6f7aab75f]
+Nov 17 17:01:33 vpn-01 sshd[387]: (WARN) Failed password for deploy from 7.42.111.238 port 44457 ssh2 [geo=US] [asn=AS13335] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=2fd7679e97]
+Nov 17 17:01:33 edge-fw sshd[1388]: (WARN) Failed password for admin from 245.97.217.154 port 55377 ssh2 [geo=SG] [asn=AS63949] [ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"] [corr=834e5b8ac7]
+Nov 17 17:01:33 bastion sshd[6525]: (INFO) sudo: session opened for user root by root(uid=0) [geo=DE] [asn=AS63949] [ua="OpenSSH_8.4"] [corr=48312cf01b]
+Nov 17 17:01:33 bastion openvpn[4646]: (WARN) Failed password for invalid user root from 206.190.70.96 port 43171 ssh2 [geo=ZA] [asn=AS15169] [ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5)"] [corr=e08d74a453]
